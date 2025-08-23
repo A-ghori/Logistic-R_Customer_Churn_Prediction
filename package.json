@@ -1,0 +1,25 @@
+{
+  "name": "logistic-r_customer_churn_prediction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A-ghori/Logistic-R_Customer_Churn_Prediction.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A-ghori/Logistic-R_Customer_Churn_Prediction/issues"
+  },
+  "homepage": "https://github.com/A-ghori/Logistic-R_Customer_Churn_Prediction#readme",
+  "dependencies": {
+    "cors-parser": "^0.0.1-security",
+    "express": "^5.1.0"
+  }
+}
